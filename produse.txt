@@ -1,0 +1,3 @@
+medicament
+dispozitiveMedicale
+dieta

@@ -1,0 +1,6 @@
+ED456*medicament*vitaminaC*Ofera suport pentru sistemul imunitar*Bayer*valabilitate
+I14011*dispozitiveMedicale*dispozitivInhalat*Util la ceva*Siemens*valabilitate
+I9011*dieta*Ceva*Util*Abc*valabilitate
+A3126*medicament*vitaminaC*Ofera suport pentru sistemul imunitar*Bayer*valabilitate
+I14012*dispozitiveMedicale*dispozitivInhalat*Util la ceva*Siemens*valabilitate
+IGDA1*dieta*Ceva*Util*Abc*valabilitate
