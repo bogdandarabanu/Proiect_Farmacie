@@ -1,3 +1,4 @@
 # Proiect_Farmacie
 
-Acest proiect Java prelucrează două fișiere text, "in.txt" și "produse.txt". Fișierul "in.txt" conține diverse obiecte dintr-o farmacie, iar fișierul "produse.txt" conține o listă cu tipurile de produse existente. Programul citeste și stochează produsele din "in.txt" într-o colecție, iar apoi creează 3 liste pentru fiecare tip de produs. Medicamentele sunt sortate după ID, iar programul verifică existența dispozitivelor medicale unice. Acest proiect implică mai multe clase, fiecare cu un rol specific.
+This Java project processes two text files, "in.txt" and "produce.txt". The "in.txt" file contains various objects from a pharmacy, and the "products.txt" file contains a list of existing product types. The program reads and stores the products from "in.txt" in a collection, and then creates 3 lists for each type of product. Medicines are sorted by ID and the program checks for unique medical devices. This project involves several classes, each with a specific role.
+
